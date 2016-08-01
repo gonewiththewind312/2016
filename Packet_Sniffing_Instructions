@@ -1,0 +1,29 @@
+A few years after finishing CodeBreakers program you 
+started working as a security consultant for a medium-size enterprise called HackMeNot Inc.
+Getting a job was easy because after all you spend tremendous amount of time solving hacking and programming challenges.
+The first task given to you at your security job is to do some forensics analysis ... a piece of cake for you.
+
+A medium-sized company has contacted HackMeNot Inc. for help. Apparently, an attacker was able to exploit 
+a web application written by a graduate of the very reputable Harward University. 
+You find out that this developer also had a degree from the Midwestern Institute of Technology. 
+"Didn't these people ever learn about systems security?", you think. In any case, 
+forensic analysis showed that the attacker had started sniffers on the network. 
+Fortunately (and unfortunately for the attacker ;-)), the information that the attacker 
+had captured on the network was retrieved. Your objective is to find out which passwords were stolen by the attacker.
+Go on, show your new boss what you are made of. Are you a CodeBreaker or what? ;)
+
+Answer the following questions.
+When you think you found an answer, feel free to call Aselya, Sarah or Aditi to check on your answer and solution;)
+
+1.) What is the Ethernet address of host 192.168.13.168 (in the form aa:bb:cc:dd:ee:ff)?
+2.) What is the IP address of the DNS server that is used for address resolving?
+3.) What is the username that was used to read e-mails via POP3 on 129.10.115.124?
+4.) What is the password that was used to read e-mails via POP3 on 129.10.115.124?
+5.) What is the secret code that was given in an e-mail?
+6.) What is the secret message in the movie neu.m4v?
+7.) Ask for 7th message when you are done with the above!
+
+Hint:
+6. ) You actually will need to watch a video
+more hints may come!
+First five people get a small prize;)
